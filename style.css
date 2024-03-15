@@ -52,6 +52,18 @@ p{
     font-size: 18px;
     font-family: var(--default-font-family);
 }
+.content h3{
+    font-size: 24px;
+    line-height: 1.5;
+    padding: 20px 0 0;
+    font-family: var(--default-font-family);
+}
+.content p{
+    font-size: 14px;
+}
+
+
+
 
 .btn-branding{
     color: var(--branding-color);
